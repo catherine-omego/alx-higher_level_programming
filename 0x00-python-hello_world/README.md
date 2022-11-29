@@ -6,3 +6,4 @@ Complete a given source code in order to print the float stored in the variable 
 Complete a given source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters
 Complete another given source code
 Complete a given souurce code (copy-cut-paste)
+Task 8 - Create a new sentence given a source code
